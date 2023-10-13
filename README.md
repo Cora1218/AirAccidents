@@ -37,7 +37,7 @@ El proyecto fue desarrollado siguiendo los pasos a continuación:
 3. Análisis exploratorio de datos (EDA) [EDA Link](https://github.com/Cora1218/AirAccidents/blob/master/EDA.ipynb)
 4. Desarrollo de dashboard con PowerBI
 
-![proceso](https://github.com/Cora1218/Imgs/blob/master/proceso.png)
+![proceso](https://github.com/Cora1218/AirAccidents/blob/master/Imgs/proceso.png)
     
 - Link de descarga dashboard Google Drive: 
 
