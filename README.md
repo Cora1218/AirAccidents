@@ -93,7 +93,7 @@ Links de acceso para descarga del dashboard:
 ## Desarrollador
 <div align="center">
  
-| [<img src="" width=115><br><sub>María  Martínez</sub>](https://github.com/Cora1218) |
+| [<img src="https://github.com/Cora1218/AirAccidents/blob/master/Imgs/yo.png" width=115><br><sub>María  Martínez</sub>](https://github.com/Cora1218) |
 | :---: | 
 
 Mi Linkedin para ponerte en contacto conmigo: </br>
