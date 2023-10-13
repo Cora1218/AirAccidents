@@ -3,7 +3,7 @@
 ## Indice
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Tabla de contenido</summary>
+  <summary>Contenido</summary>
   <ol>
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="#Objetivo">Objetivo</a></li>
@@ -20,7 +20,7 @@
 ## Introducción
 Proyecto de Data Analytics para la carrera de Data Science en la academia Soy Henry. 
 
-El presente proyecto consta de un análisis de una base de datos histórica de accidentes aéreos para identificar patrones y tendencias en la seguridad de la aviación civil. 
+El presente proyecto consta de un análisis de una base de datos histórica de accidentes aéreos para identificar patrones y tendencias en la seguridad de la aviación civil, así como los insights más relevantes a través de un dashboard interactivo con 4 KPIs. 
 
 ## Objetivo
 Diseñar un dashboard interactivo que permita explorar los datos y obtener información sobre accidentes, incluyendo la visualización de 4 KPIs (1 solicitado, 3 propuestos). 
