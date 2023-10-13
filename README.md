@@ -37,9 +37,9 @@ El proyecto fue desarrollado siguiendo los pasos a continuación:
 3. Análisis exploratorio de datos (EDA) [EDA Link](https://github.com/Cora1218/AirAccidents/blob/master/EDA.ipynb)
 4. Desarrollo de dashboard con PowerBI
 
-![proceso](https://github.com/ksfajardo/PI02_DA/blob/main/Proceso.png)
+![proceso](https://github.com/Imgs/blob/main/Proceso.png)
     
-- Link de descarga dashboard Google Drive: https://drive.google.com/file/d/1YzWFc2t1ZZUCxJbnLFMK2_dkq3-X9tEq/view?usp=sharing
+- Link de descarga dashboard Google Drive: https://drive.google.com
 
 ## Tecnologías
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -88,7 +88,7 @@ El proyecto fue desarrollado siguiendo los pasos a continuación:
 ## PowerBI
 Links de acceso para descarga del dashboard:
 
-- Link Google Drive: https://drive.google.com/file/d/1YzWFc2t1ZZUCxJbnLFMK2_dkq3-X9tEq/view?usp=sharing
+- Link Google Drive: https://drive.google.com/
 
 ## Desarrollador
 <div align="center">
