@@ -33,8 +33,8 @@ Objetivos especificos:
 ## Alcance
 El proyecto fue desarrollado siguiendo los pasos a continuación:
 1. Pre-procesamiento de datos
-2. Extracción, Transformación y Carga de datos [ETL_Link](https://github.com/Cora1218/AirAccidents/blob/main/ETL.ipynb)
-3. Análisis exploratorio de datos (EDA) [EDA Link](https://github.com/Cora1218/AirAccidents/blob/main/EDA.ipynb)
+2. Extracción, Transformación y Carga de datos [ETL_Link](https://github.com/Cora1218/AirAccidents/blob/master/ETL.ipynb) 
+3. Análisis exploratorio de datos (EDA) [EDA Link](https://github.com/Cora1218/AirAccidents/blob/master/EDA.ipynb)
 4. Desarrollo de dashboard con PowerBI
 
 ![proceso](https://github.com/ksfajardo/PI02_DA/blob/main/Proceso.png)
