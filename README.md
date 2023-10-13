@@ -93,7 +93,7 @@ Links de acceso para descarga del dashboard:
 ## Desarrollador
 <div align="center">
  
-| [<img src="https://avatars.githubusercontent.com/u/104804355?s=400&u=7c7592e2239f0ef414c4a3c5a61920ab19c9d980&v=4" width=115><br><sub>María  Martínez</sub>](https://github.com/Cora1218) |
+| [<img src="" width=115><br><sub>María  Martínez</sub>](https://github.com/Cora1218) |
 | :---: | 
 
 Mi Linkedin para ponerte en contacto conmigo: </br>
